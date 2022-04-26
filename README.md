@@ -8,7 +8,7 @@ Code to go with StackAbuse article on using Django with Celery and Redis
 2) clone repo
 
 ```
-git clone https://github.com/amcquistan/image_parroter.git
+git clone https://github.com/Candykiller16/Celery_app-to-get-miniature
 cd image_parroter
 ```
 
